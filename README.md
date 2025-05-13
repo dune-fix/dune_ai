@@ -3,7 +3,7 @@
 ![DUNE AI Banner](/dune.png)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/X?style=social)](https://x.com/dune_ai_labs)
-[![Website](https://img.shields.io/website?up_message=online&url=[https://](https://dune-ai.cloud))](https://dune-ai.cloud)
+[![Website](https://img.shields.io/website?up_message=online&url=https://dune-ai.cloud)](https://dune-ai.cloud)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Solana](https://img.shields.io/badge/Solana-Compatible-blueviolet)](https://solana.com)
